@@ -21,7 +21,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 ### The challenge is create the following design html and css.
 ### Screenshot
 
-![This is the Screenshot](./design/desktop-design.jpg)
+![This is the Screenshot](./desktop-design.jpg)
 
 
 ### Links
