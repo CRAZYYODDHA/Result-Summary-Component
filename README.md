@@ -26,8 +26,8 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/CRAZYYODDHA/Result-Summary-Component)
+- Live Site URL: [Add live site URL here](https://crazyyoddha.github.io/Result-Summary-Component/)
 
 ## My process
 
@@ -58,5 +58,5 @@ I took guidance in my project from YouTuber Kevin Powell I did not copy pasted I
 
 ## Author
 
-- Website - [CRAZYYODDHA](https://www.your-site.com)
+- Website - [CRAZYYODDHA](https://github.com/CRAZYYODDHA)
 - Frontend Mentor - [@CRAZYYODDHA](https://www.frontendmentor.io/profile/yourusername)
